@@ -1,0 +1,12 @@
+one layer, tanh, 1e-3, 50 epochs, momentum, batch size 50, 93.25%
+one layer,25 nodes, tanh, 1e-3, 50 epochs, momentum, batch size 50, 91.67%
+one layer,100 nodes, tanh, 1e-3, 50 epochs, momentum, batch size 50, 93.43%
+one layer, tanh, 1e-3, 100 epochs, momentum, batch size 50, 93.54%
+one layer, relu, 1e-4, 41 epochs (ES), momentum, batch size 50, 96.93%
+one layer, tanh, 1e-3, 60 epochs, momentum, lambda 1e-4, batch size 50, 91.73%
+one layer, tanh, 1e-3, 60 epochs, momemtum, lambda 1e-3, batch size 50, 83.15%
+one layer, sigmoid, 1e-3, 50 epochs, momentum, batch size 50, 93.41%
+one layer, sigmoid, 1e-4, 50 epochs, momentum, batch size 500, 90.36%
+one layer, sigmoid, 1e-4, 50 epochs, momentum, batch size 50, 90.64%
+two layer,50 nodes, tanh, 1e-3, 50 epochs, momentum, batch size 50, 82.57%
+
