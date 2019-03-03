@@ -1,0 +1,129 @@
+CUDA is supported
+Model on CUDA? True
+Epoch 1, average minibatch 0 loss: 0.000
+Epoch 1, average minibatch 50 loss: 0.000
+Epoch 1, average minibatch 100 loss: 0.000
+Epoch 1, average minibatch 150 loss: 0.000
+Epoch 1, average minibatch 200 loss: 0.000
+Epoch 1, average minibatch 250 loss: 0.000
+Epoch 1, average minibatch 300 loss: 0.000
+Epoch 1, average minibatch 350 loss: 0.000
+Epoch 1, average minibatch 400 loss: 0.000
+Epoch 1, average minibatch 450 loss: 0.000
+Epoch 1, average minibatch 500 loss: 0.000
+Epoch 1, average minibatch 550 loss: 0.000
+Epoch 1, average minibatch 600 loss: 0.000
+Epoch 1, average minibatch 650 loss: 0.000
+Epoch 1, average minibatch 700 loss: 0.000
+Epoch 1, average minibatch 750 loss: 0.000
+Epoch 1, average minibatch 800 loss: 0.000
+Epoch 1, average minibatch 0 loss: 0.000
+Epoch 1, average minibatch 50 loss: 0.000
+Epoch 1, average minibatch 100 loss: 0.000
+Epoch 1, average minibatch 150 loss: 0.000
+Epoch 1, average minibatch 200 loss: 0.000
+Epoch 1, average minibatch 250 loss: 0.000
+Epoch 1, average minibatch 300 loss: 0.000
+Epoch 1, average minibatch 350 loss: 0.000
+Epoch 1, average minibatch 400 loss: 0.000
+Epoch 1, average minibatch 450 loss: 0.000
+Epoch 1, average minibatch 500 loss: 0.000
+Epoch 1, average minibatch 550 loss: 0.000
+Epoch 1, average minibatch 600 loss: 0.000
+Epoch 1, average minibatch 650 loss: 0.000
+Epoch 1, average minibatch 700 loss: 0.000
+Epoch 1, average minibatch 750 loss: 0.000
+Epoch 1, average minibatch 800 loss: 0.000
+Finished 1 epochs of training
+Validation loss after  0  epochs= 0.0085391669326782
+Epoch 2, average minibatch 0 loss: 0.000
+Epoch 2, average minibatch 50 loss: 0.000
+Epoch 2, average minibatch 100 loss: 0.000
+Epoch 2, average minibatch 150 loss: 0.000
+Epoch 2, average minibatch 200 loss: 0.000
+Epoch 2, average minibatch 250 loss: 0.000
+Epoch 2, average minibatch 300 loss: 0.000
+Epoch 2, average minibatch 350 loss: 0.000
+Epoch 2, average minibatch 400 loss: 0.000
+Epoch 2, average minibatch 450 loss: 0.000
+Epoch 2, average minibatch 500 loss: 0.000
+Epoch 2, average minibatch 550 loss: 0.000
+Epoch 2, average minibatch 600 loss: 0.000
+Epoch 2, average minibatch 650 loss: 0.000
+Epoch 2, average minibatch 700 loss: 0.000
+Epoch 2, average minibatch 750 loss: 0.000
+Epoch 2, average minibatch 800 loss: 0.000
+Epoch 2, average minibatch 0 loss: 0.000
+Epoch 2, average minibatch 50 loss: 0.000
+Epoch 2, average minibatch 100 loss: 0.000
+Epoch 2, average minibatch 150 loss: 0.000
+Epoch 2, average minibatch 200 loss: 0.000
+Epoch 2, average minibatch 250 loss: 0.000
+Epoch 2, average minibatch 300 loss: 0.000
+Epoch 2, average minibatch 350 loss: 0.000
+Epoch 2, average minibatch 400 loss: 0.000
+Epoch 2, average minibatch 450 loss: 0.000
+Epoch 2, average minibatch 500 loss: 0.000
+Epoch 2, average minibatch 550 loss: 0.000
+Epoch 2, average minibatch 600 loss: 0.000
+Epoch 2, average minibatch 650 loss: 0.000
+Epoch 2, average minibatch 700 loss: 0.000
+Epoch 2, average minibatch 750 loss: 0.000
+Epoch 2, average minibatch 800 loss: 0.000
+Finished 2 epochs of training
+Validation loss after  1  epochs= 0.008476455013806117
+Epoch 3, average minibatch 0 loss: 0.000
+Epoch 3, average minibatch 50 loss: 0.000
+Epoch 3, average minibatch 100 loss: 0.000
+Epoch 3, average minibatch 150 loss: 0.000
+Epoch 3, average minibatch 200 loss: 0.000
+Epoch 3, average minibatch 250 loss: 0.000
+Epoch 3, average minibatch 300 loss: 0.000
+Epoch 3, average minibatch 350 loss: 0.000
+Epoch 3, average minibatch 400 loss: 0.000
+Epoch 3, average minibatch 450 loss: 0.000
+Epoch 3, average minibatch 500 loss: 0.000
+Epoch 3, average minibatch 550 loss: 0.000
+Epoch 3, average minibatch 600 loss: 0.000
+Epoch 3, average minibatch 650 loss: 0.000
+Epoch 3, average minibatch 700 loss: 0.000
+Epoch 3, average minibatch 750 loss: 0.000
+Epoch 3, average minibatch 800 loss: 0.000
+Epoch 3, average minibatch 0 loss: 0.000
+Epoch 3, average minibatch 50 loss: 0.000
+Epoch 3, average minibatch 100 loss: 0.000
+Epoch 3, average minibatch 150 loss: 0.000
+Epoch 3, average minibatch 200 loss: 0.000
+Epoch 3, average minibatch 250 loss: 0.000
+Epoch 3, average minibatch 300 loss: 0.000
+Epoch 3, average minibatch 350 loss: 0.000
+Epoch 3, average minibatch 400 loss: 0.000
+Epoch 3, average minibatch 450 loss: 0.000
+Epoch 3, average minibatch 500 loss: 0.000
+Epoch 3, average minibatch 550 loss: 0.000
+Epoch 3, average minibatch 600 loss: 0.000
+Epoch 3, average minibatch 650 loss: 0.000
+Epoch 3, average minibatch 700 loss: 0.000
+Epoch 3, average minibatch 750 loss: 0.000
+Epoch 3, average minibatch 800 loss: 0.000
+Finished 3 epochs of training
+Validation loss after  2  epochs= 0.008350127398443874
+Epoch 4, average minibatch 0 loss: 0.000
+Epoch 4, average minibatch 50 loss: 0.000
+Epoch 4, average minibatch 100 loss: 0.000
+Epoch 4, average minibatch 150 loss: 0.000
+Epoch 4, average minibatch 200 loss: 0.000
+Traceback (most recent call last):
+  File "train_model_arch1.py", line 89, in <module>
+    for minibatch_count, (images, labels) in enumerate(train_loader, 0):
+  File "/opt/conda/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 280, in __next__
+    idx, batch = self._get_batch()
+  File "/opt/conda/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 259, in _get_batch
+    return self.data_queue.get()
+  File "/opt/conda/lib/python3.6/queue.py", line 164, in get
+    self.not_empty.wait()
+  File "/opt/conda/lib/python3.6/threading.py", line 295, in wait
+    waiter.acquire()
+  File "/opt/conda/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 178, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 4356) is killed by signal: Terminated.

@@ -1,0 +1,5 @@
+CUDA is supported
+Traceback (most recent call last):
+  File "train_model_arch1.py", line 41, in <module>
+    weights = get_weights()
+NameError: name 'get_weights' is not defined
